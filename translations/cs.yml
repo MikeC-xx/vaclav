@@ -10,10 +10,10 @@ error.internal: Chyba serveru.
 error.not_found: Stránka nenalezena.
 error.server: Na serveru došlo k chybě.
 experiences: Pracovní zkušenosti
-exp_authentica: Návrh a tvorba grafiky POS medií (stojany a regály). Vizualizace těchto návrhů (3D modelování a renderování). Využití softwaru: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D.
-exp_hejcin: Vizualizace nového sportovního areálu školy. Využití softwaru: Adobe Photoshop, Cinema 4D.
-exp_patriot: Vizualizace exteriéru a interiéru. Využití softwaru: Adobe Photoshop, Cinema 4D, Marvelous Designer.
-exp_vnp: Vizualizace nábytku, interiérů, vytváření plánků a postupů pro sestavování skříní. Využití softwaru: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D, Marvelous Designer.
+exp_authentica: "Návrh a tvorba grafiky POS medií (stojany a regály). Vizualizace těchto návrhů (3D modelování a renderování). Využití softwaru: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D."
+exp_hejcin: "Vizualizace nového sportovního areálu školy. Využití softwaru: Adobe Photoshop, Cinema 4D."
+exp_patriot: "Vizualizace exteriéru a interiéru. Využití softwaru: Adobe Photoshop, Cinema 4D, Marvelous Designer."
+exp_vnp: "Vizualizace nábytku, interiérů, vytváření plánků a postupů pro sestavování skříní. Využití softwaru: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D, Marvelous Designer."
 floorball: Florbal
 german: Němčina
 grammar_school: 4 leté gymnázium
