@@ -10,10 +10,10 @@ error.internal: Internal server error.
 error.not_found: Page not found.
 error.server: An error occurred on the server.
 experiences: Experiences
-exp_authentica: Designing store POS media. Visualization of POS media design, office furniture and interiors. Used software: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D.
-exp_hejcin: Visualization of the new sports facility of the school. Used software: Adobe Photoshop, Cinema 4D.
-exp_patriot: Interior and exterior visualization. Used software: Adobe Photoshop, Cinema 4D, Marvelous Designer.
-exp_vnp: Visualization of furniture, interiors. Designing schema of furniture assembling. Used software: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D, Marvelous Designer.
+exp_authentica: "Designing store POS media. Visualization of POS media design, office furniture and interiors. Used software: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D."
+exp_hejcin: "Visualization of the new sports facility of the school. Used software: Adobe Photoshop, Cinema 4D."
+exp_patriot: "Interior and exterior visualization. Used software: Adobe Photoshop, Cinema 4D, Marvelous Designer."
+exp_vnp: "Visualization of furniture, interiors. Designing schema of furniture assembling. Used software: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Cinema 4D, Marvelous Designer."
 floorball: Floorball
 grammar_school: grammar schoold
 german: German
